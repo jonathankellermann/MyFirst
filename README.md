@@ -7,3 +7,5 @@
  <li>git pull - downloads</li>
  <li>git add . or -A- adds everything</li>
  <li>exit out of commit - esc +  ':wq'</li>
+ <li>____________________________________</li>
+

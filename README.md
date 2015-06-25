@@ -8,4 +8,9 @@
  <li>git add . or -A- adds everything</li>
  <li>exit out of commit - esc +  ':wq'</li>
  <li>____________________________________</li>
+<li>branches and merging</li>
+<li>git branch - lists availible branches</li>
+<li>git branch <name of new branch> - adds a branch of name </li>
+<li>git checkout <name of new branch> - switches to branch</li>
+<li></li>
 
